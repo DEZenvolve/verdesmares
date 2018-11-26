@@ -1,0 +1,51 @@
+@charset "utf-8";
+body{
+font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3{
+margin-top: 8px;
+margin-bottom: 8px;
+}
+a{
+text-decoration: none;
+}
+.css-cabecalho{
+background-image: url("../imagens/imgFundo.jpg");
+background-attachment: fixed;
+background-size: cover;
+background-position: top;
+padding-bottom: 100px;
+}
+.css-cabecalho-margem{
+padding-top: 300px;
+}
+.css-destaques{
+margin-top: -50px;
+}
+.css-linha{
+background-image: url("../imagens/linha.jpg");
+background-repeat: repeat-x;
+}
+.css-padding-right{
+padding-right: 10px;
+}
+.css-padding-left{
+padding-left: 10px;
+}
+.css-imagem-maior{
+background-image: url("../imagens/food2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 203px;
+width: 100%;
+}
+.css-fundo-section{
+background-image: url("../imagens/travel2.jpg");
+background-size: cover;
+background-position: center;
+}
+.css-fundo-linhas{
+ background-image:url("../imagens/linhas.png");
+ background-repeat: no-repeat;
+ background-position: bottom right;
+}
